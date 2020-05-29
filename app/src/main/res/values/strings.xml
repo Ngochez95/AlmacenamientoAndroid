@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlmacenamientoMoviles</string>
+    <string name="name">Almacenamiento de datos</string>
+    <string name="Local">Almacenar archivo local</string>
+    <string name="ext">Almacenar archivo externo</string>
+
+</resources>
